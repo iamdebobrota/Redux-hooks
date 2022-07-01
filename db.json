@@ -1,0 +1,12 @@
+{
+  "ReduxTodos": [
+    {
+      "title": "Learn Todo",
+      "desc": "Learn Todo",
+      "date": "2022-07-01",
+      "type": "Todo",
+      "official": true,
+      "id": "a4c9fe7f-fd17-4d79-9049-fcd5a25ebb4c"
+    }
+  ]
+}
